@@ -1,0 +1,5 @@
+{
+  "name": "CashLedger",
+  "description": "A professional financial management tool for tracking accounts, vouchers, and generating detailed reports.",
+  "requestFramePermissions": []
+}
